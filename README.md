@@ -1,3 +1,3 @@
 # UserManagementDemo
 
-Java WWW Programming using servlet, jsp, tomcat 10.1.28
+Java WWW Programming using Servlet, JSP, Tomcat 10.1.28, JPA ORM, Microsft SQL Server
